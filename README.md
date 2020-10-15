@@ -63,6 +63,22 @@ margin-top: 100px
 <h2 align="center"> PORTFOLIO</h2>
 <h3 align="center"> ME, MYSELF AND I</h3>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<div class="horizontaal">
 
 <img src="alvar2.jpg" style="width:386px;height:586px;">
